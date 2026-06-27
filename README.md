@@ -146,7 +146,10 @@ src/
  │    ├── IRoom.java
  │    ├── Reservation.java
  │    └── RoomType.java
- └── MainMenu.java
+ └── ui/
+ │    ├── AdminMenu.java
+ │    ├── HotelApplication.java
+ │    ├── MainMenu.java
 ```
 
 ---
